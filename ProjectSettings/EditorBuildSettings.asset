@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Timeline.unity
+    guid: 83c624ad0864bb146aff45724bb7eeb0
   m_configObjects: {}
